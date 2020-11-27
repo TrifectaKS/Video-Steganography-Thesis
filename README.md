@@ -1,0 +1,3 @@
+# Video Steganography
+
+This proposed technique takes advantage of the numerous number of frames and audio samples in a video, instead of utilising just the audio or the frames of the whole video. This gives the possibility of significantly increasing the capacity of secret data that can be embedded in the video. This was tackled by developing two sub-algorithms for audio and image steganography separately, which are based and built upon existing research. Both sub-algorithms were then adapted for a video steganography algorithm. The algorithms were developed with scalability in mind, meaning that a theoretical infinite amount of secret data can be embedded in a video, given that the video has enough capacity for the secret data.
