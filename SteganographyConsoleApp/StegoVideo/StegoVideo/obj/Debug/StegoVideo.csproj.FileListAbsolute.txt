@@ -1,0 +1,10 @@
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\bin\Debug\StegoVideo.exe.config
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\bin\Debug\StegoVideo.exe
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\bin\Debug\StegoVideo.pdb
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\obj\Debug\StegoVideo.Properties.Resources.resources
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\obj\Debug\StegoVideo.csproj.GenerateResource.Cache
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\obj\Debug\StegoVideo.csproj.CoreCompileInputs.cache
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\obj\Debug\StegoVideo.exe
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\obj\Debug\StegoVideo.pdb
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\obj\Debug\StegoVideo.csprojResolveAssemblyReference.cache
+C:\Users\Trifecta\source\repos\StegoVideo\StegoVideo\bin\Debug\MersenneTwister.dll
